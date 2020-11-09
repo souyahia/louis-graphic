@@ -1,0 +1,15 @@
+{
+  "Reddit": {
+    "MaxPostRank": 199,
+    "MaxCommentRank": 4
+  },
+  "Telegram": {
+    "Secret": ""
+  },
+  "State": {
+    "Subreddits": {
+      "436757231": "r/space",
+      "Default": "r/okbuddyretard"
+    }
+  }
+}

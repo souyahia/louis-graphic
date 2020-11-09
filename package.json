@@ -1,0 +1,27 @@
+{
+  "name": "louis-graphic",
+  "version": "1.0.1",
+  "description": "Louis Graphic Telegram bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/bot.js | ./node_modules/.bin/bunyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souyahia/louis-graphic.git"
+  },
+  "author": "Samy Ouyahia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souyahia/louis-graphic/issues"
+  },
+  "homepage": "https://github.com/souyahia/louis-graphic#readme",
+  "dependencies": {
+    "bent": "^7.3.12",
+    "bunyan": "^1.8.14",
+    "html-entities": "^1.3.1",
+    "html-to-text": "^6.0.0",
+    "nconf": "^0.10.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
